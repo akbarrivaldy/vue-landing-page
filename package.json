@@ -5,7 +5,8 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "tw": "postcss src/assets/tailwind.css -o src/main.css"
+    "tw": "postcss src/assets/tailwind.css -o src/main.css",
+    "tw:build": "tailwindcss build -i src/assets/tailwind.css -o src/main.css"
   },
   "dependencies": {
     "vue": "^3.0.5"
