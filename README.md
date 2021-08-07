@@ -1,5 +1,5 @@
 # Vue Tailwind with Vite
-Just trying Vue with Tailwind and Vite for the first time.
+Just trying Vue with Tailwind and Vite for the first time. It's not responsive tho :).
  
 # Commands
 ## npm run dev
